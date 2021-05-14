@@ -6,8 +6,6 @@ image: img/products-full-width.jpg
 ---
 This is a test for the product
 
-
-
 # Hello
 
 ```java
@@ -16,6 +14,6 @@ class A {
 }
 ```
 
-uhdufhsduhfu
+Hello there!
 
 sudhfuhuhsduhfusdhfids uhsdif hsiduf ihdsuf iusd hfisud fiusdhfiusd fiw heiurzeoir sdiu fiua
